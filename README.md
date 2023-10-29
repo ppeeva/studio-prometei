@@ -1,2 +1,2 @@
 # studio-prometei
-Сайт-визитка за Студио Прометей
+Website card for Studio Prometei
